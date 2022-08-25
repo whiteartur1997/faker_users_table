@@ -5,7 +5,7 @@ function App() {
         <div className="application-wrapper">
 
             <h1 className="application-title">
-                Hello world!
+                React Faker Users, New user every 5 seconds...
             </h1>
         </div>
 

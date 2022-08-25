@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .application-wrapper {
-    @apply bg-gradient-to-r from-green-600 via-emerald-400 to-teal-300 min-h-screen my-2
+    @apply bg-gradient-to-r from-green-600 via-emerald-400 to-teal-300 min-h-screen py-2
 }
 
 .application-title {
